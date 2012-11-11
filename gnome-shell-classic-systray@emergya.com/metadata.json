@@ -1,5 +1,5 @@
 {
-	"shell-version": ["3.4"],
+	"shell-version": ["3"],
 	"uuid": "gnome-shell-classic-systray@emergya.com",
 	"name": "Classic Systray",
 	"description": "GNOME2 style systray",
